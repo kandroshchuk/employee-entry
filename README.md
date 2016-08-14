@@ -1,9 +1,9 @@
-#Basic Project Project
+#Employee Project
 
-*Simple Project*
+*Employee Java Project*
 
 **Java 7
 
-* Java Maven Application
-
 Simple Java Application.
+
+[Kateryna Androshchuk](https://githhub.com/kandroshchuk)
